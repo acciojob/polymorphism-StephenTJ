@@ -19,7 +19,6 @@ public class Main {
         p.product(0,0);
         p.product(0,0,0);
         p.product(0.0,0.0);
-
     }
 
 }
